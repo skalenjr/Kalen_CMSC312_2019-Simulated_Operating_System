@@ -1,10 +1,12 @@
 Name: Email_Application
-Total runtime: 100
-Memory: 20
+Total runtime: 1000
+Memory: 500
 
 CALCULATE 50
+CRIT
 I/0 30
 I/0 45
+CRITEND
 CALCULATE 75
 I/O 20
 EXE
