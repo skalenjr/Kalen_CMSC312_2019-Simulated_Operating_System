@@ -1,5 +1,5 @@
 Name: Email_Application
-Total runtime: 1000
+Total runtime: 125
 Memory: 500
 
 CALCULATE 50

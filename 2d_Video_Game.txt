@@ -1,6 +1,6 @@
 Name: 2d_Video_Game
-Total runtime: 5000
-Memory: 1500
+Total runtime: 600
+Memory: 900
 
 CALCULATE 50
 CALCULATE 100

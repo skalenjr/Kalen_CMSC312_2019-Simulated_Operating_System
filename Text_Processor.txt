@@ -1,6 +1,6 @@
 Name: Text_Processor
-Total runtime: 3000
-Memory: 500
+Total runtime: 300
+Memory: 150
 
 CALCULATE 50
 CALCULATE 100

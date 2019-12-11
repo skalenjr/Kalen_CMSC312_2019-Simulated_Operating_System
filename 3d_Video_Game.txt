@@ -1,6 +1,6 @@
 Name: 3d_Video_Game
-Total runtime: 9000
-Memory: 2000
+Total runtime: 1200
+Memory: 1000
 
 CALCULATE 50
 CALCULATE 100
